@@ -13,6 +13,8 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=NewAmirAli.NewAmirAli&"  />
 </div>
 
+<br />
+
 ## 🛠 Skills
 
 <div align="left">
