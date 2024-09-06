@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 
 
 ![static](https://github-readme-stats.vercel.app/api?username=NewAmirAli&show_icons=true&theme=dracula)
+![snake game](https://github.com/NewAmirAli/NewAmirAli/blob/main/github-user-contribution.svg)
