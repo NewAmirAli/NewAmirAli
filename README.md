@@ -7,7 +7,6 @@
 
 🌱 I’m currently learning backend
 
-⚡ fact: computer always say the truth
 
 <div >
   <img src="https://visitor-badge.laobi.icu/badge?page_id=NewAmirAli.NewAmirAli&"  />
