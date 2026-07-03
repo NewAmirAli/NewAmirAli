@@ -41,9 +41,5 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/NewAmirAli/NewAmirAli/output/snake.svg" alt="Snake animation" />
-</p>
-
-<p align="center">
   <i>“First, solve the problem. Then, write the code.” – John Johnson</i>
 </p>
