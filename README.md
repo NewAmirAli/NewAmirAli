@@ -1,34 +1,76 @@
 ![snake game](https://github.com/NewAmirAli/NewAmirAli/blob/main/github-user-contribution.svg)
-## Hi 👋, I'm AmirAli
 
+<h1 align="center">Hi 👋, I'm AmirAli</h1>
+<h3 align="center">Computer Engineering Student | Backend Developer</h3>
 
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=NewAmirAli.NewAmirAli&" alt="visitor badge" />
+</p>
 
-🖥 Computer Engineer Student
+---
 
-🌱 I’m currently learning backend
+### 👨‍💻 About Me
 
+- 🖥️ Computer Engineering Student
+- 🌱 Currently deepening my knowledge in **Backend Development**
+- 💡 Passionate about building scalable and efficient systems
+- 🎯 2026 Goals: Contribute to open-source projects and master microservices
 
-<div >
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=NewAmirAli.NewAmirAli&"  />
-</div>
+---
 
-<br />
+### 🛠️ Tech Stack
 
-## 🛠 Skills
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50" />
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-</div>
+---
 
-<br />
+### 📊 GitHub Stats
 
-## 📐 Github Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=NewAmirAli&show_icons=true&theme=dracula" alt="newamirali" /></p>
-<p><img align="left" src="[https://github-readme-stats.vercel.app/api/top-langs?username=newamirali&show_icons=true&locale=en&layout=compact](https://camo.githubusercontent.com/55d328f2724fc91b548a41c2311a074324d88e078ed1a03a4939e75ccea90aad/68747470733a2f2f6769746875622d726561646d652d73746174732d666173742e76657263656c2e6170702f6170692f77616b6174696d653f757365726e616d653d5072616e6573684a73266c61796f75743d636f6d70616374)" alt="newamirali" /></p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=NewAmirAli&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NewAmirAli&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NewAmirAli&theme=dracula&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/newamirali" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://twitter.com/newamirali" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/newamirali" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NewAmirAli/NewAmirAli/output/snake.svg" alt="Snake animation" />
+</p>
+
+<p align="center">
+  <i>“First, solve the problem. Then, write the code.” – John Johnson</i>
+</p>
